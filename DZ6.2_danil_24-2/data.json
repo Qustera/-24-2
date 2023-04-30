@@ -1,0 +1,74 @@
+{   
+    "products": [
+        {
+            "img": "media/asusrog1.jpg",
+            "title": "Asus ROG Strix",
+            "sale": "1200$",
+            "before": "1300$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/asustuf.jpg",
+            "title": "Asus TUF",
+            "sale": "1300$",
+            "before": "1500$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/gigabyte.jpg",
+            "title": "Gigabyte G5",
+            "sale": "1500$",
+            "before": "1650$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/msi.jpg",
+            "title": "MSI GF63",
+            "sale": "800$",
+            "before": "900$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/msi1.jpg",
+            "title": "MSI Summit",
+            "sale": "1000$",
+            "before": "1100$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/gigabite1.jpg",
+            "title": "Gigabyte AERO",
+            "sale": "2000$",
+            "before": "2200$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/msi2.jpg",
+            "title": "MSI GP66",
+            "sale": "2800$",
+            "before": "3000$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/msi3.jpg",
+            "title": "MSI Katana",
+            "sale": "3000$",
+            "before": "3500$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/dell.jpg",
+            "title": "Dell G16 Gaming",
+            "sale": "700$",
+            "before": "1000$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        },
+        {
+            "img": "media/hp.jpg",
+            "title": "HP Victus",
+            "sale": "1300$",
+            "before": "1500$",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum temporibus illum corporis neque, asperiores magnam, beatae ex, iure veritatis ducimus ullam fuga officiis quaerat aliquam."
+        }
+    ] 
+}
